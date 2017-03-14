@@ -1,4 +1,4 @@
-package pl.akademiakodu;
+package pl.akademiakodu.zadanie4;
 
 /**
  * Created by OskarPraca on 2017-03-14.

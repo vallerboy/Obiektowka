@@ -1,4 +1,4 @@
-package pl.akademiakodu;
+package pl.akademiakodu.zadanie4;
 
 import java.util.List;
 
